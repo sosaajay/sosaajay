@@ -48,12 +48,8 @@ A comprehensive repository containing various data science and analysis projects
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sosaajay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosaajay&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosaajay&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sosaajay&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosaajay&theme=dark&background=181818&ring=0070f3&fire=0070f3&currStreakNum=0070f3" />
 </p>
 
 ---
