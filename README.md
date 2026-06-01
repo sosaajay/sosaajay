@@ -1,10 +1,15 @@
 # Hi there, I'm Ajay Sosa 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ajay%20Sosa&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Ajay%20Sosa&fontSize=80&animation=fadeIn" />
 </p>
 
+
 ### 👨‍💻 About Me
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0070F3&width=435&lines=BCA+Student;AI+%26+ML+Enthusiast;Passionate+Data+Analyst;Skilled+Python+Developer" alt="Typing SVG" />
+</p>
 
 I am a **BCA Student** passionate about **Artificial Intelligence** and **Machine Learning**. I love exploring data to find meaningful insights and building models that can solve real-world problems.
 
@@ -19,37 +24,48 @@ I am a **BCA Student** passionate about **Artificial Intelligence** and **Machin
 ### 🚀 Languages & Tools
 
 <p align="left">
+  <b>Languages:</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,github,vscode,pycharm,anaconda,powershell" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js" />
   </a>
 </p>
 
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-- **Machine Learning:** Scikit-learn, Jupyter Notebooks
-- **Web Tech:** HTML, CSS
+<p align="left">
+  <b>Libraries & Frameworks:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,scikitlearn" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Tools:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,pycharm,anaconda,powershell" />
+  </a>
+</p>
+
+- **Others:** Power BI, Excel, Jupyter Notebooks
 
 ---
 
-### 📂 Top Projects
+### 📂 Featured Projects
 
-#### 📊 [AllData](https://github.com/sosaajay/AllData)
-A comprehensive repository containing various data science and analysis projects, including:
-- **Business Case Studies**
-- **SQL Queries & Database Management**
-- **Power BI Dashboards**
-- **Python Data Analysis Scripts**
-
-#### 🏥 [techwar](https://github.com/sosaajay/techwar)
-- Focused on **Healthcare Data Analysis**.
-- Utilizes Python and Jupyter Notebooks to analyze healthcare datasets and provide insights.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📊 **[AllData](https://github.com/sosaajay/AllData)** | Comprehensive repo with Business Case Studies, SQL, and Power BI dashboards. | SQL, Python, Power BI, Excel |
+| 🏥 **[techwar](https://github.com/sosaajay/techwar)** | Advanced Healthcare Data Analysis providing medical insights. | Python, Jupyter, Pandas |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Contributions
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sosaajay&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosaajay&theme=dark&background=181818&ring=0070f3&fire=0070f3&currStreakNum=0070f3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sosaajay&layout=compact&theme=dark&langs_count=8" />
 </p>
 
 ---
@@ -65,5 +81,5 @@ A comprehensive repository containing various data science and analysis projects
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sosaajay&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sosaajay&color=0070f3&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
