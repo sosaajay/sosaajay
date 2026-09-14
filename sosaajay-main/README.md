@@ -1,0 +1,78 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=7">
+  <img src="./banner.svg?v=7" alt="Ajay Sosa — AI/ML & Data Science" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="36%" align="center" valign="middle">
+
+<img src="./lanyard.svg?v=7" alt="Ajay Sosa ID badge" width="280"/>
+
+</td>
+<td width="64%" valign="middle">
+
+<img src="./projects-card.svg?v=2" alt="Featured Projects" width="100%"/>
+
+**Data Analytics Portfolio →** [INR Dashboard](https://github.com/sosaajay/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard) · [Retail Sales](https://github.com/sosaajay/Data-Analytics-Portfolio/tree/main/Retail%20Store%20Sales%20Analysis) · [UPI Analysis](https://github.com/sosaajay/Data-Analytics-Portfolio/tree/main/UPI%20Analysis) · [full repo](https://github.com/sosaajay/Data-Analytics-Portfolio)
+
+**Supervised Machine Learning →** [Message Intelligence](https://github.com/sosaajay/Supervised-Machine-Learning/tree/main/Message_Intelligence_System) · [Risk Alert](https://github.com/sosaajay/Supervised-Machine-Learning/tree/main/Risk_Alert_Classifier) · [Regression Engine](https://github.com/sosaajay/Supervised-Machine-Learning/tree/main/Robust_Regression_Engine) · [House Price](https://github.com/sosaajay/Supervised-Machine-Learning/tree/main/Projects/House_Price_Prediction) · [Churn Prediction](https://github.com/sosaajay/Supervised-Machine-Learning/tree/main/Customer%20Churn%20Prediction) · [full repo](https://github.com/sosaajay/Supervised-Machine-Learning)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🛰️ Live Project Showcase
+
+<img src="./holo-showcase.svg?v=2" alt="Live project showcase — dashboards cycling automatically" width="85%"/>
+
+🔗 [INR Currency Exchange Dashboard](https://github.com/sosaajay/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard) · [Retail Store Sales Analysis](https://github.com/sosaajay/Data-Analytics-Portfolio/tree/main/Retail%20Store%20Sales%20Analysis) · [UPI Payment Apps Analysis](https://github.com/sosaajay/Data-Analytics-Portfolio/tree/main/UPI%20Analysis) · HR / Employee Analytics Dashboard · Sales Performance Dashboard
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 GitHub Stats & Activity
+
+<img src="./radar-skills.svg?v=2" alt="Skill Radar" height="220"/>
+<img src="./milestones.svg?v=2" alt="Snapshot" height="220"/>
+
+<br/><br/>
+<img src="./streak-stats.svg?v=1" alt="GitHub Streak"/>
+
+<br/><br/>
+
+### 👻 Pac-Man eats my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sosaajay/sosaajay/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sosaajay/sosaajay/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/sosaajay/sosaajay/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
+</picture>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/sosaajay"><img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ajay-sosa-aa32b03b8/"><img src="https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+*⭐️ Computer Engineering · AI/ML · Data Science — always learning, always building.* 💠
+
+</div>
